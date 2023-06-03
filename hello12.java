@@ -5,6 +5,7 @@ class HelloWorld {
         System.out.println("Hello, india!");
         System.out.println("Hello, Wor!");
 		System.out.println("Hello,"); 
+		System.out.println("Hello, love"); 
 	    		 
     }
 }
